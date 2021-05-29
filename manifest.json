@@ -1,11 +1,11 @@
 {
-    "name": "تست هوش آدمک",
-    "short_name": "AdamakIQ",
+    "name": "web",
+    "short_name": "web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "تست هوش برای سن 3 تا 13 سال",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
